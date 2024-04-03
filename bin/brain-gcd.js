@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import gameBody from '../src/gameBody.js';
 
-const description = 'Find the greatest common divisior of given numbers';
+const description = 'Find the greatest common divisior of given numbers.';
 
 const task = () => {
   const num1 = Math.round(Math.random() * 50);
